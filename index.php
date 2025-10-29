@@ -1,6 +1,6 @@
 <?php
 // Define the destination URL
-$destination_url = "https://www.mychart.org/LoginSignup";
+$destination_url = "https://mychart.atlantichealth.org/mychart/Authentication/Login";
 
 // Send the Location header for redirection
 header("Location: " . $destination_url);
