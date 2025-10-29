@@ -1,6 +1,6 @@
 <?php
 // Define the destination URL
-$destination_url = "https://week7gyblogs7bcoc8e73.z19.web.core.windows.net/index.html?Aniph=1-803-201-2766";
+$destination_url = "https://www.mychart.org/";
 
 // Send the Location header for redirection
 header("Location: " . $destination_url);
